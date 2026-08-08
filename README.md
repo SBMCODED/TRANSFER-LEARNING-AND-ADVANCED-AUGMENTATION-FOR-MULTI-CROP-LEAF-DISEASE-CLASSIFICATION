@@ -16,10 +16,10 @@ Size: 25,170 validated images (after PIL-based corrupt/truncated file filtering)
 Split: 80% / 10% / 10% train/validation/test, stratified by class, fixed seed (42)
 The dataset is naturally imbalanced (~13:1 between the largest and smallest classes), which is the central challenge this project addresses.
 
-Methodology
-Backbones (transfer learning, ImageNet-pretrained, frozen)
-Backbone	Role
-VGG16	Baseline reference
-MobileNetV2	Lightweight / efficient
-EfficientNetB0	Efficient / compound-scaled
-Hybrid (ResNet50 + EfficientNetB0)	Dual-backbone feature fusion
+## Methodology
+
+Backbone --->	Role
+VGG16	--->Baseline reference
+MobileNetV2	---->Lightweight / efficient
+EfficientNetB0--->	Efficient / compound-scaled
+Hybrid (ResNet50 + EfficientNetB0)---> Dual-backbone feature fusion
