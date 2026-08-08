@@ -16,7 +16,7 @@ A custom weighted loss function was also built to resolve a real conflict betwee
 
 ## Dataset
 
-- **Source:** [CCMT (Crop Pest and Disease Detection) dataset](https://data.mendeley.com/), hosted on Mendeley Data
+- **Source:** [[CCMT (Crop Pest and Disease Detection) dataset](https://data.mendeley.com/)](https://data.mendeley.com/datasets/bwh3zbpkpv/1), hosted on Mendeley Data
 - **Crops:** Maize, Cassava, Cashew, Tomato
 - **Classes:** 22 disease and healthy categories
 - **Size:** 25,170 validated images (after PIL-based corrupt/truncated file filtering)
