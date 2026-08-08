@@ -16,7 +16,7 @@ A custom weighted loss function was also built to resolve a real conflict betwee
 
 ## Dataset
 
-- **Source:** (https://data.mendeley.com/)](https://data.mendeley.com/datasets/bwh3zbpkpv/1), hosted on Mendeley Data
+- **Source:**https://data.mendeley.com/datasets/bwh3zbpkpv/1 , hosted on Mendeley Data
 - **Crops:** Maize, Cassava, Cashew, Tomato
 - **Classes:** 22 disease and healthy categories
 - **Size:** 25,170 validated images (after PIL-based corrupt/truncated file filtering)
