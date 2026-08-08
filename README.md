@@ -66,7 +66,7 @@ See the full write-up (Chapters 3–5) for detailed per-model classification rep
 ## Repository Structure
 
 ```
-├── ano.py                                       # Data loading, validation, EDA
+                                                 # Data loading, validation, EDA
 ├── plant_disease_detection.ipynb                # Full experiment notebook (all 16 runs)
 ├── arm_A_*_no_aug_class_weight.py               # Arm A: no augmentation + class weighting
 ├── arm_B_*_no_aug_oversampling.py               # Arm B: no augmentation + oversampling
